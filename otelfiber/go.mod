@@ -1,4 +1,4 @@
-module github.com/gofiber/contrib/otelfiber
+module github.com/penguin-statistics/fiber-contrib/otelfiber
 
 go 1.16
 
